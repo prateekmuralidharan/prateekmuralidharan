@@ -143,6 +143,12 @@ Live Site: <a href="https://healapp.co.in">healapp.co.in</a>
 
 <br><br>
 
+<strong>comment_scanner</strong><br>
+<em>AI-powered YouTube comment analysis extension for summaries, themes, sentiment, and reply drafts</em><br>
+Chrome Web Store: <a href="https://chromewebstore.google.com/detail/commentscanner-%E2%80%94-youtube/edgdlefoajgenledaijlklcgofpcgcmm">comment_scanner</a>
+
+<br><br>
+
 <strong>Gayathri Enterprise</strong><br>
 <em>Brand system &amp; website for a B2B manufacturing business</em><br>
 Live Site: <a href="https://gayathri-enterprises.co.in">gayathri-enterprises.co.in</a>
