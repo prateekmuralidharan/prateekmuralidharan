@@ -1,30 +1,77 @@
-# Prateek Muraleedharan
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="42%" valign="top">
 
-Product builder. Generalist. Curious about systems that help people think more clearly.
+<h1>PRATEEK<br>MURALEEDHARAN.</h1>
 
-Based in India — working at the intersection of product, design, and engineering.
+</td>
+<td width="4%" valign="top" align="center">|</td>
+<td width="54%" valign="top">
 
----
+PRODUCT BUILDER AND CURIOUS SYSTEMS THINKER FROM INDIA.
+BUILDING SMALL INTERNET TOOLS, EXPLORING AGENT SYSTEMS, AND FIGURING THINGS OUT.
 
-## Shipped
+<br><br>
 
-| Project | What | Stack |
-|---|---|---|
-| [heal](https://healapp.co.in) | Turns scattered medical reports into a structured, trackable health timeline | React Native · Node.js · AI |
-| [gayathri-enterprises.co.in](https://gayathri-enterprises.co.in) | Brand system and web presence for a B2B manufacturing business | Next.js · JSON CMS |
-| [prateekm.in](https://prateekm.in) | Personal portfolio and digital lab | HTML · CSS · JS |
-| [comment-scanner](https://github.com/prateekmuralidharan/comment-scanner) | Chrome extension that scans YouTube comment threads and surfaces insights | Python |
+[prateekm.in](https://prateekm.in)
 
----
-
-## Currently exploring
-
-- Agent systems and structured AI workflows
-- Interfaces that reduce cognitive load rather than add to it
-- Small internet tools that do one thing well
+</td>
+</tr>
+</table>
 
 ---
 
-## Find me
+<table width="100%" border="0" cellspacing="0" cellpadding="16">
+<tr>
+<td width="33%" valign="top">
 
-[prateekm.in](https://prateekm.in) · [LinkedIn](https://linkedin.com/in/prateek-muraleedharan) · [healapp.co.in](https://healapp.co.in)
+**WORK:**
+
+Deloitte USI<br>
+Mumbai, India
+
+</td>
+<td width="33%" valign="top">
+
+**PROJECTS:**
+
+o [heal](https://github.com/prateekmuralidharan/heal)<br>
+Health data reader that turns scattered medical reports into something structured and understandable — healapp.co.in
+
+<br>
+
+o [comment-scanner](https://github.com/prateekmuralidharan/comment-scanner)<br>
+Chrome extension that scans YouTube comment threads and surfaces intelligent insights
+
+<br>
+
+o [gayathri-enterprise](https://github.com/prateekmuralidharan/gayathri-enterprise)<br>
+Brand system and web presence for a B2B manufacturing business — gayathri-enterprises.co.in
+
+<br>
+
+o [personal-website](https://github.com/prateekmuralidharan/personal-website)<br>
+Personal portfolio and digital lab — prateekm.in
+
+</td>
+<td width="33%" valign="top">
+
+**TOOLS & TECH:**
+
+o Python<br>
+o HTML / CSS / JavaScript<br>
+o LLM APIs / Agent Systems<br>
+o Chrome Extensions<br>
+o Figma
+
+<br>
+
+**LINKS:**
+
+o [LinkedIn](https://www.linkedin.com/in/prateek-muraleedharan)<br>
+o [GitHub](https://github.com/prateekmuralidharan)<br>
+o [Website](https://prateekm.in)
+
+</td>
+</tr>
+</table>
